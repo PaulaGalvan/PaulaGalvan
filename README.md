@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá pessoal 👋
+
+Me chamo Paula Galvan e sou do Brasil. Atualmente atuo como Analista de Negócios na [HOS Software para Farmácias](https://www.hos.com.br). 👩🏼‍💻
+No meu tempo livre gosto de jogar World of Wacraft 🎮, assistir séries e filmes 🎬, ler livros ou quadrinhos 📚, de ouvir música 🎶 e beber cerveja 🍻. 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/paullagalvan/)](https://www.instagram.com/paullagalvan/)
 
