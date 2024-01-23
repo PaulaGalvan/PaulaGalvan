@@ -4,6 +4,8 @@ Me chamo Paula Galvan e sou do Brasil. Atualmente atuo como Analista de Negócio
 
 No meu tempo livre gosto de jogar World of Wacraft 🎮, assistir séries e filmes 🎬, ler livros ou quadrinhos 📚, de ouvir música 🎶 e beber cerveja 🍻. 
 
+Gostaria de me encontrar?
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/paullagalvan/)](https://www.instagram.com/paullagalvan/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-galvan-029282163/)](https://www.linkedin.com/in/paula-galvan-029282163/)
